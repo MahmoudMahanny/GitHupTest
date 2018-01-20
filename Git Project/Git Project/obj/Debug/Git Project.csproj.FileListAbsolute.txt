@@ -1,0 +1,9 @@
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\bin\Debug\Git Project.exe.config
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\bin\Debug\Git Project.exe
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\bin\Debug\Git Project.pdb
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git Project.csprojResolveAssemblyReference.cache
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git_Project.Form1.resources
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git_Project.Properties.Resources.resources
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git Project.csproj.GenerateResource.Cache
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git Project.exe
+D:\ITI\GITHUPTEST\GitHupTest\Git Project\Git Project\obj\Debug\Git Project.pdb
